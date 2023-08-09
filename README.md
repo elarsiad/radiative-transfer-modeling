@@ -77,3 +77,7 @@ The script generates various plots analyzing the modeled radiance spectrum:
 These analyses provide insights into the factors that shape the top-of-atmosphere radiance spectrum of Earth.
 
 
+## Acknowledgements
+
+This analysis was completed as final project for ATMS 532 at University of Washington.
+
